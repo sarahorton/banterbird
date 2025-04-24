@@ -1,6 +1,10 @@
 [
     {
         "username": "admin",
+        "message": "tweet"
+    },
+    {
+        "username": "admin",
         "message": "Welcome to Banterbird!"
     },
     {
@@ -9,6 +13,6 @@
     },
     {
         "username": "bob",
-        "message": "Just joined. Let’s tweet!"
+        "message": "Just joined. Let\u00e2\u20ac\u2122s tweet!"
     }
 ]
