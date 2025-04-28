@@ -1,0 +1,30 @@
+/* style.css */
+
+body {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    background-color: #fbd5e4;
+    padding: 20px;
+    color: #ff63a2;
+}
+
+#feed {
+    margin-top: 30px;
+}
+
+h1 {
+    font-size: 60px;
+    text-shadow: 3px 3px #ff237b;
+}
+
+textarea {
+    border-radius:10px
+
+}
+
+button {
+    border-radius: 5px
+}
+
